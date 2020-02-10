@@ -18,3 +18,4 @@ var budgetController = (function(){
 })();    //IIFE that will return an object
 
 console.log('09.02.2020');
+console.log('10.02.2020');
