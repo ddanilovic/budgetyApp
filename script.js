@@ -19,3 +19,4 @@ var budgetController = (function(){
 
 console.log('09.02.2020');
 console.log('10.02.2020');
+console.log('13.02.2020');
